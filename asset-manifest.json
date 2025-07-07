@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/parkchef/static/css/main.008e1f08.css",
-    "main.js": "/parkchef/static/js/main.05b2c3b8.js",
-    "static/js/453.e064a2ea.chunk.js": "/parkchef/static/js/453.e064a2ea.chunk.js",
-    "static/media/back.png": "/parkchef/static/media/back.f898fe20b2e6405974a8.png",
-    "index.html": "/parkchef/index.html",
-    "main.008e1f08.css.map": "/parkchef/static/css/main.008e1f08.css.map",
-    "main.05b2c3b8.js.map": "/parkchef/static/js/main.05b2c3b8.js.map",
-    "453.e064a2ea.chunk.js.map": "/parkchef/static/js/453.e064a2ea.chunk.js.map"
+    "main.css": "/ParkChef/static/css/main.e7b4f21e.css",
+    "main.js": "/ParkChef/static/js/main.1bc1a438.js",
+    "static/js/453.e064a2ea.chunk.js": "/ParkChef/static/js/453.e064a2ea.chunk.js",
+    "static/media/back.png": "/ParkChef/static/media/back.f898fe20b2e6405974a8.png",
+    "index.html": "/ParkChef/index.html",
+    "main.e7b4f21e.css.map": "/ParkChef/static/css/main.e7b4f21e.css.map",
+    "main.1bc1a438.js.map": "/ParkChef/static/js/main.1bc1a438.js.map",
+    "453.e064a2ea.chunk.js.map": "/ParkChef/static/js/453.e064a2ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.008e1f08.css",
-    "static/js/main.05b2c3b8.js"
+    "static/css/main.e7b4f21e.css",
+    "static/js/main.1bc1a438.js"
   ]
 }
